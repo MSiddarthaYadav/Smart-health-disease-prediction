@@ -1,6 +1,7 @@
 # Smart Health Disease Prediction
 
 This is a machine learning-based website built with *Python Flask* that predicts possible diseases based on user input symptoms.
+A simple web-based system that predicts possible diseases from selected symptoms using a trained Random Forest Classifier. Built with Python (Flask) and HTML/CSS, it also suggests suitable doctor details based on the predicted disease.
 
 ## 📂 Project Files
 
