@@ -1,0 +1,13 @@
+symptom_1,symptom_2,symptom_3,symptom_4,symptom_5,disease
+fever,cough,fatigue,shortness of breath,chest pain,Covid-19
+fever,cough,loss of taste,loss of smell,headache,Covid-19
+fever,cough,sore throat,runny nose,headache,Flu
+fever,body aches,chills,fatigue,headache,Flu
+headache,nausea,vomiting,sensitivity to light,sensitivity to sound,Migraine
+headache,aura,blurred vision,light sensitivity,dizziness,Migraine
+fatigue,weight gain,dry skin,constipation,feeling cold,Hypothyroidism
+fatigue,depression,muscle weakness,puffy face,dry skin,Hypothyroidism
+frequent urination,excessive thirst,increased hunger,weight loss,blurred vision,Diabetes
+fatigue,blurred vision,slow healing,thirst,frequent infections,Diabetes
+chest pain,shortness of breath,heart palpitations,dizziness,fatigue,Heart Disease
+chest pain,nausea,lightheadedness,arm pain,shortness of breath,Heart Disease

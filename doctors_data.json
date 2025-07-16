@@ -1,0 +1,47 @@
+{
+    "General Physician": [
+      {
+        "name": "Dr. Asha Verma",
+        "phone": "9876543210",
+        "email": "asha.verma@generalclinic.com",
+        "hospital": "City Care Hospital"
+      },
+      {
+        "name": "Dr. Rahul Sen",
+        "phone": "9876543211",
+        "email": "rahul.sen@generalclinic.com",
+        "hospital": "MedFirst Clinic"
+      }
+    ],
+    "Neurologist": [
+      {
+        "name": "Dr. Meera Kapoor",
+        "phone": "9876543212",
+        "email": "meera.kapoor@neurocare.com",
+        "hospital": "NeuroWell Hospital"
+      }
+    ],
+    "Cardiologist": [
+      {
+        "name": "Dr. Vikram Shah",
+        "phone": "9876543213",
+        "email": "vikram.shah@heartcenter.com",
+        "hospital": "Heartline Institute"
+      }
+    ],
+    "Endocrinologist": [
+      {
+        "name": "Dr. Neha Reddy",
+        "phone": "9876543214",
+        "email": "neha.reddy@endoclinic.com",
+        "hospital": "EndoCare Centre"
+      },
+      {
+        "name": "Dr. Arjun Mehta",
+        "phone": "9876543215",
+        "email": "arjun.mehta@endoclinic.com",
+        "hospital": "Harmony Health"
+      }
+    ]
+  }
+  
