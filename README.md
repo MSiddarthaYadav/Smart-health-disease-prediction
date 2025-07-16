@@ -1,4 +1,4 @@
-# Smart Health Disease Prediction Website
+# Smart Health Disease Prediction
 
 This is a machine learning-based website built with *Python Flask* that predicts possible diseases based on user input symptoms.
 
